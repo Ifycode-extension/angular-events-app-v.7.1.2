@@ -1,4 +1,4 @@
-# ng-fundamentals
+# Angular Events App v.7.1.2
 Changes to app built in the Angular fundamentals course by Jim Cooper & Joe Eames are pushed here for reference purpose - associated with Google Africa Developers Scholarship.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
